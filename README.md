@@ -5,8 +5,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### HiveQL is the language used to query the dataset. 
 
-## *You can see my HiveQL queries [here](https://github.com/PriyankaJhaTheAnalyst/YellowTaxiNYC_HiveCaseStudy/blob/main/NYC%20Yellow%20Taxi%20Hive%20Case%20Study.txt).*
+#### *You can see my HiveQL queries [here](https://github.com/PriyankaJhaTheAnalyst/YellowTaxiNYC_HiveCaseStudy/blob/main/NYC%20Yellow%20Taxi%20Hive%20Case%20Study.txt).*
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data and Exploration
 
 ### Dataset: <br />
